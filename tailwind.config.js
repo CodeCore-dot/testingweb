@@ -7,7 +7,7 @@ module.exports = {
         primary : "Poppins",
       },
       colors:{
-        hijau: "#31B380",
+        hijau: "#3B6685",
         kuning: "#FFB822",
         abu1: "#3C3C3C",
         abu2: "#7F7F7F",
